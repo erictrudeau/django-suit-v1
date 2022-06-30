@@ -2,7 +2,9 @@
 Django Suit v1
 ==============
 
-Note: Django Suit v1 and v2 are no longer maintained by the creator `darklow <https://github.com/darklow>`_.  This is a maintenance fork of Suit v1, updated for Django v3 by `mhindery <https://github.com/mhindery>`_ and for Django v4 by myself.
+Note: Django Suit v1 and v2 are no longer maintained by the creator `darklow <https://github.com/darklow>`_.
+
+This is a maintenance fork of Suit v1, updated for Django v3 by `mhindery <https://github.com/mhindery>`_ and for Django v4 by `erictrudeau <https://github.com/erictrudeau>`_.
 
 Suit v1
 ==============
