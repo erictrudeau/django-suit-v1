@@ -6,12 +6,12 @@ Note: Django Suit v1 and v2 are no longer maintained by the creator `darklow <ht
 
 Django Suit v1
 ==============
-`Django v3.2 <https://github.com/mhindery/django-suit/tree/develop>`_
-`Django v4.0 <https://github.com/erictrudeau/django-suit-v1/tree/v1>`_
+* `Django v3.2 <https://github.com/mhindery/django-suit/tree/develop>`_
+* `Django v4.0 <https://github.com/erictrudeau/django-suit-v1/tree/v1>`_
 
 Django Suit v2
 ==============
-`Django v3.2 & v4.0 <https://github.com/pulse-mind/django-suit>`_
+* `Django v3.2 & v4.0 <https://github.com/pulse-mind/django-suit>`_
 
 
 ===========
