@@ -2,16 +2,25 @@
 Django Suit v1
 ==============
 
-Note: Django Suit v1 and v2 are no longer maintained by the creator `darklow <https://github.com/darklow>`_.  This is a maintenance fork of Django Suit v1, updated for Django v3 by `mhindery <https://github.com/mhindery>`_ and for Django v4 by myself.
+Note: Django Suit v1 and v2 are no longer maintained by the creator `darklow <https://github.com/darklow>`_.  This is a maintenance fork of Suit v1, updated for Django v3 by `mhindery <https://github.com/mhindery>`_ and for Django v4 by myself.
 
-Django Suit v1
+Suit v1
 ==============
 * `Django v3.2 <https://github.com/mhindery/django-suit/tree/develop>`_
 * `Django v4.0 <https://github.com/erictrudeau/django-suit-v1/tree/v1>`_
 
-Django Suit v2
+.. image:: https://raw.github.com/darklow/django-suit/develop/docs/_static/img/django-suit.png
+   :alt: Django Suit v1 Preview
+   :target: http://djangosuit.com/admin/
+
+
+Suit v2
 ==============
 * `Django v3.2 & v4.0 <https://github.com/pulse-mind/django-suit>`_
+
+.. image:: https://raw.github.com/erictrudeau/django-suit-v1/v1/docs/_static/img/django-suit-v2.png
+   :alt: Django Suit v2 Preview
+   :target: http://v2.djangosuit.com/admin/
 
 
 ===========
